@@ -1,6 +1,12 @@
 streamlit
+utility
+random
+hmac
 pandas
-plotly  # replaces plotly.express
-python-dotenv  # replaces dotenv
+plotly
+json
+helper_functions
+os
+python-dotenv
 openai
 tiktoken
