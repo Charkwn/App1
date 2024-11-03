@@ -33,9 +33,9 @@ if form.form_submit_button("Submit"):
 
 
 st.sidebar.markdown("# Main page 🎈")
-st.sidebar.markdown("[Payout](../1_Payouts.py)")
-st.sidebar.markdown("[About Us](../2_About_us.py)")
-st.sidebar.markdown("[Methodology](../3_Methodology.py)")
+st.sidebar.markdown("[Payout](../Pages/1_Payouts.py)")
+st.sidebar.markdown("[About Us](../Pages/2_About_us.py)")
+st.sidebar.markdown("[Methodology](../Pages/3_Methodology.py)")
 
 st.write(
     """
