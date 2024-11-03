@@ -12,7 +12,7 @@ cpf_life_info = {
 }
 
 # Load the JSON file
-filepath = './data/CPFLife_data.json'
+filepath = os.path.join(os.path.dirname(__file__), '..', 'data', 'CPFLife_data.json')
 
 with open(filepath, 'r', encoding='utf-8') as file:
     json_string = file.read()
