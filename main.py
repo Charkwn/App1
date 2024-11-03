@@ -33,11 +33,12 @@ if form.form_submit_button("Submit"):
 
 
 st.sidebar.markdown("# Main page 🎈")
+st.sidebar.markdown("[Page 1](pages/1_Payouts.py)")
+st.sidebar.markdown("[Page 2](pages/2_About_us.py)")
+st.sidebar.markdown("[Page 3](pages/3_Methodology.py)")
 
 st.write(
     """
-
-    
     
 IMPORTANT NOTICE: This web application is a prototype developed for educational purposes only. The information provided here is NOT intended for real-world usage and should not be relied upon for making any decisions, especially those related to financial, legal, or healthcare matters.
 
